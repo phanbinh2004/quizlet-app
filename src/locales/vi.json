@@ -1,0 +1,39 @@
+{
+    "greeting": "Xin chào",
+    "welcome": "Chào mừng bạn đến với ứng dụng!",
+    "PageNotFoundTitle": "Trang Không Tồn Tại!",
+    "PageNotFoundDes": "Xin lỗi, Chúng tôi không tìm thấy trang mà bạn truy cập!",
+    "PageNotFoundBack": "Trờ lại trang chủ",
+    "PageNotFoundContact": "Liên hệ hỗ trợ",
+    "header": {
+        "tabs": {
+            "study_sets": "Học phần",
+            "expert_solutions": "Lời giải chuyên gia",
+            "folders": "Thư mục",
+            "classes": "Lớp học",
+            "view_all": "Xem tất cả"
+        },
+        "home": "Trang chủ",
+        "lib": "Thư viện của bạn",
+        "profile": "Hồ sơ",
+        "settings": "Cài đặt",
+        "mode": "Chế độ",
+        "logout": "Đăng xuất",
+        "privacy": "Chính sách"
+    },
+    "footer": {
+        "about":{
+            "about_us": "Giới thiệu",
+            "about_quizlet": "Giới thiệu về Quizlet",
+            "careers": "Tuyển dụng",
+            "advertise": "Quảng cáo trên Quizlet",
+            "dowload": "Tải ứng dụng"
+        },
+        "students": {
+            "flashcard": "Thẻ ghi nhớ",
+            "learn": "Học",
+            "solutions": "Lời giải",
+            "chat": "Q-chat"
+        }
+    }
+}

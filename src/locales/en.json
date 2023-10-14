@@ -1,0 +1,39 @@
+{
+    "greeting": "Hello",
+    "welcome": "Welcome to the app!",
+    "PageNotFoundTitle": "Page not found!",
+    "PageNotFoundDes": "Sorry, we couldn’t find the page you’re looking for.",
+    "PageNotFoundBack": "Go back home",
+    "PageNotFoundContact": "Contact support",
+    "header": {
+        "tabs": {
+            "study_sets": "Study sets",
+            "expert_solutions": "Expert solutions",
+            "folders": "Folders",
+            "classes": "Classes",
+            "view_all": "View all"
+        },
+        "home": "Home",
+        "lib": "Your library",
+        "profile": "Profile",
+        "settings": "Settings",
+        "mode": "mode",
+        "logout": "Log out",
+        "privacy": "Privacy policy"
+    },
+    "footer": {
+        "about": {
+            "about_us": "About us",
+            "about_quizlet": "About Quizlet",
+            "careers": "Careers",
+            "advertise": "Advertise with Quizlet",
+            "dowload": "Get the app"
+        },
+        "students": {
+            "flashcard":"Flashcards",
+            "learn": "Learn",
+            "solutions": "Solutions",
+            "chat": "Q-chat"
+        }
+    }
+}
